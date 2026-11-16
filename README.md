@@ -178,3 +178,5 @@ The Computer Price Prediction Using Machine Learning project demonstrates how di
 By implementing Multiple Linear Regression, Polynomial Regression, and Decision Tree Regression, the project compares different approaches and selects the best-performing model using evaluation metrics and cross-validation.
 
 Finally, the trained model is integrated into a Streamlit web application, allowing users to enter computer specifications and obtain estimated prices in both INR and USD.
+
+13.Deploymemt Link: https://computerpriceprediction-t8ltaecphahyceg8zr3l4i.streamlit.app/
